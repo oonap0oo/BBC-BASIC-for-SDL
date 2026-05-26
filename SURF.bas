@@ -4,7 +4,7 @@
       H% = 600 : HH% = H% / 2: HHSQ% = HH%^2
       OMEGA# = 2 * PI / HH% * 2.5 REM frequency of plotted 3D function
       TILT# = 0.3 REM parameter for the simple projection used, igger value tilts graph forward, kind of
-      SPACINGLINES% = 4.5 REM spacing between horizontal lines following the surface
+      SPACINGLINES% = 4 REM spacing between horizontal lines following the surface
       REM define an user-defined display mode
       VDU 23, 22, W%; H%; 8, 16, 16, 0
       REM move graphics origin, coord. are in graphical units
