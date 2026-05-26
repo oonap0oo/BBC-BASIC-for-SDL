@@ -9,7 +9,7 @@ A animation using Vogel's formula, to learn more about using BBC BASIC and graph
     angle = n * 137,5°
     r = c * √n
 
-The program draws 3 different shape, their position is determined by the Vogel's formula. The colors sre animated.
+The program draws 3 different shape, their position is determined by the Vogel's formula. The colors are animated.
 
 The code: [phyllotaxis2.bas](phyllotaxis2.bas)
 
