@@ -2,6 +2,16 @@
 
 Exploring the latest [modern incarnation of BBC BASIC](https://www.bbcbasic.co.uk/bbcsdl/index.html)
 
+## Surface plot with hidden-line removal
+
+2D Surface plot with hidden-lines removal, the surface color varies with the local increase in Y value.
+
+The code [SURF.bas](SURF.bas)
+
+![SURF.PNG](SURF.PNG)
+
+![SURFb.PNG](SURFb.PNG)
+
 ## Vogel's formula from Phyllotaxis 
 
 A animation using Vogel's formula, to learn more about using BBC BASIC and graphical output.
