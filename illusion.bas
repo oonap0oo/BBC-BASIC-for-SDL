@@ -1,4 +1,4 @@
-      REM Spiral illusion                     K Moerman 2026
+      REM Spiral illusion using BBC BASIC for SDL          K Moerman 2026
       REM Based on an image posted by Akiyoshi Kitaoka on Facebook
       REM https://www.facebook.com/share/p/1QEpNj9kjW/
 
