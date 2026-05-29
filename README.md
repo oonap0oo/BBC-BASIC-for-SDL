@@ -62,6 +62,8 @@ The program draws 3 different shapes, their position is determined by the Vogel'
 
 The code: [phyllotaxis2.bas](phyllotaxis2.bas)
 
+[Watch the animation on Youtube](https://youtu.be/6VG5WaerftE?is=w6frz9UIjpC5zbg8)
+
 A still image from the animation:
 
 ![phyllotaxis2.png](phyllotaxis2.png)
