@@ -65,3 +65,17 @@ The code: [phyllotaxis2.bas](phyllotaxis2.bas)
 A still image from the animation:
 
 ![phyllotaxis2.png](phyllotaxis2.png)
+
+## Spiral Illusion 
+ 
+
+Based on an [image posted by Akiyoshi Kitaoka on FB which consists of concentric circles but can give the illusion that there is one spiral growing from the center](https://www.facebook.com/share/p/1QEpNj9kjW/)
+
+
+(Here only the built-in graphical commands are used, not the more powerful libraries that come with this latest version of BBC BASIC.)
+
+The code resides here: 
+
+[illusion.bas](illusion.bas)
+
+![illusion.png](illusion.png)
