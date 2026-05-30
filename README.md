@@ -95,6 +95,8 @@ The parts Xn² - Yn² and 2.Xn.Yn can be reckognised as the real and imaginary p
 
 The code: [alien_fireworks.bas](alien_fireworks.bas)
 
+[View the animation on Youtube](https://youtu.be/J6y3kliobfI)
+
 A stilll image from the animation:
 
 ![alien_fireworks.png](alien_fireworks.png)
