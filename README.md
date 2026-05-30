@@ -81,3 +81,20 @@ The code resides here:
 [illusion.bas](illusion.bas)
 
 ![illusion.png](illusion.png)
+
+## Alien Fireworks
+
+This program uses 2 couples sine map formulas to calculate successive x and y coordinates. 
+
+The formulas have two parameters a and b which are being varied.
+
+    Xn+1 = sin(Xn² - Yn² + a)
+    Yn+1 = sin(2.Xn.Yn + b)
+
+The parts Xn² - Yn² and 2.Xn.Yn can be reckognised as the real and imaginary part of a squared complex number Z=X+i.Y
+
+The code: [alien_fireworks.bas](alien_fireworks.bas)
+
+A stilll image from the animation:
+
+![alien_fireworks.png](alien_fireworks.png)
