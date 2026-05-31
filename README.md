@@ -84,7 +84,7 @@ The code resides here:
 
 ## Alien Fireworks
 
-This program uses 2 couples sine map formulas to calculate successive x and y coordinates. 
+This program uses 2 coupled sine map formulas to calculate successive x and y coordinates. 
 
 The formulas have two parameters a and b which are being varied.
 
