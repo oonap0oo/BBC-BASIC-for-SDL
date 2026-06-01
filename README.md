@@ -95,6 +95,10 @@ The parts Xn² - Yn² and 2.Xn.Yn can be reckognised as the real and imaginary p
 
 The code: [alien_fireworks.bas](alien_fireworks.bas)
 
+This second version uses the library "gfxlib - A 2D Game Graphics Library for BBCSDL" for all graphic output intead off the buolt in commands of BBC BASIC.
+
+[Code of gfxlib version](alien_fireworks_gfxlib.bas)
+
 [View the animation on Youtube](https://youtu.be/J6y3kliobfI)
 
 A stilll image from the animation:
