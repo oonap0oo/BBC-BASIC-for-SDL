@@ -97,7 +97,7 @@ The code: [alien_fireworks.bas](alien_fireworks.bas)
 
 This second version uses the library "gfxlib - A 2D Game Graphics Library for BBCSDL" for all graphic output intead off the buolt in commands of BBC BASIC.
 
-[Code of gfxlib version](alien_fireworks_gfxlib.bas)
+The code of the gfxlib version: [alien_fireworks_gfxlib.bas](alien_fireworks_gfxlib.bas)
 
 [View the animation on Youtube](https://youtu.be/J6y3kliobfI)
 
