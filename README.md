@@ -69,10 +69,8 @@ A still image from the animation:
 ![phyllotaxis2.png](phyllotaxis2.png)
 
 ## Spiral Illusion 
- 
 
 Based on an [image posted by Akiyoshi Kitaoka on FB which consists of concentric circles but can give the illusion that there is one spiral growing from the center](https://www.facebook.com/share/p/1QEpNj9kjW/)
-
 
 (Here only the built-in graphical commands are used, not the more powerful libraries that come with this latest version of BBC BASIC.)
 
@@ -91,11 +89,11 @@ The formulas have two parameters a and b which are being varied.
     Xn+1 = sin(Xn² - Yn² + a)
     Yn+1 = sin(2.Xn.Yn + b)
 
-The parts Xn² - Yn² and 2.Xn.Yn can be reckognised as the real and imaginary part of a squared complex number Z=X+i.Y
+The parts Xn² - Yn² and 2.Xn.Yn can be recognised as the real and imaginary part of a squared complex number Z=X+i.Y
 
 The code: [alien_fireworks.bas](alien_fireworks.bas)
 
-This second version uses the library "gfxlib - A 2D Game Graphics Library for BBCSDL" for all graphic output intead off the buolt in commands of BBC BASIC.
+This second version uses the library "gfxlib - A 2D Game Graphics Library for BBCSDL" for all graphic output, instead of the built-in functions of BBC BASIC.
 
 The code of the gfxlib version: [alien_fireworks_gfxlib.bas](alien_fireworks_gfxlib.bas)
 
