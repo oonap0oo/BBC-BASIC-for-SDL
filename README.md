@@ -97,8 +97,8 @@ This second version uses the library "gfxlib - A 2D Game Graphics Library for BB
 
 The code of the gfxlib version: [alien_fireworks_gfxlib.bas](alien_fireworks_gfxlib.bas)
 
-[View the animation on Youtube](https://youtu.be/J6y3kliobfI)
+[View the animation of the gfxlib version on Youtube](https://youtu.be/Uvy3FKvHc2A)
 
 A stilll image from the animation:
 
-![alien_fireworks.png](alien_fireworks.png)
+![alien_fireworks_gfxlib.png](alien_fireworks_gfxlib.png)
