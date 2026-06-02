@@ -91,7 +91,7 @@ The formulas have two parameters a and b which are being varied.
 
 The parts Xn² - Yn² and 2.Xn.Yn can be recognised as the real and imaginary part of a squared complex number Z=X+i.Y
 
-The code: [alien_fireworks.bas](alien_fireworks.bas)
+The code of a version using the  built-in grahical commands of BBC BASIC: [alien_fireworks.bas](alien_fireworks.bas)
 
 This second version uses the library "gfxlib - A 2D Game Graphics Library for BBCSDL" for all graphic output, instead of the built-in functions of BBC BASIC.
 
