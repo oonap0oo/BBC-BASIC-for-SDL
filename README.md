@@ -102,3 +102,16 @@ The code of the gfxlib version: [alien_fireworks_gfxlib.bas](alien_fireworks_gfx
 A stilll image from the animation:
 
 ![alien_fireworks_gfxlib.png](alien_fireworks_gfxlib.png)
+
+## Dye Spiral
+
+Simulation of physical color effect using dyes, a stick and a turning table. The efffect is shown in the [FB video from channel "Dyes by Redd"](https://www.facebook.com/share/r/1Ev61TnyEA/)
+
+The dyes are applied in parallel stripes. As the turning tabble has started rotating a thin stick is held in the dyes creating a spiral pattern as the dyes are displaced by the stick passing through.
+
+The code: [dye_spiral.bas](dye_spiral.bas)
+
+![dye_spiral.png](dye_spiral.png)
+
+
+
