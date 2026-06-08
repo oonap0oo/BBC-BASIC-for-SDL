@@ -113,5 +113,20 @@ The code: [dye_spiral.bas](dye_spiral.bas)
 
 ![dye_spiral.png](dye_spiral.png)
 
+## Café wall illusion
 
+This is a visual illusion that is spread across the internet.
+
+[Wikipedia article](https://en.wikipedia.org/wiki/Caf%C3%A9_wall_illusion)
+
+This image gives the illusion that the horizontal lines become tilted when the rows have a horizontal offset. When the rows momentarily become aligned, the illusion disappears temporarily.
+
+The program draws 1 row and copies it in memory using the functions provided in the gfxlib library.
+During the animation it simply copies the rows with the appropriate horizontal offset to display. This way the interpreted BBC BASIC only has to manage high level operations during the animation.
+
+The code: [cafe_wall_illusion.bas](cafe_wall_illusion.bas)
+
+A still image out of the animation:
+
+![cafewallillusion.png](cafewallillusion.png)
 
