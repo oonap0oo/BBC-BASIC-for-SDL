@@ -132,3 +132,21 @@ A still image out of the animation:
 
 ![cafewallillusion.png](cafewallillusion.png)
 
+## Minsky Art
+
+Based on an [earlier version using QB64 Phoenix Edition](https://github.com/oonap0oo/QB64-projects/blob/main/minskyart5.bas)
+
+Images are created using a variant of the Minsky integer circle algorithm. It uses a 3 step algorithm to remove skewing.
+
+The color of each pixel depends on the number of iterations it took to loop back to that pixel x,y coordinate.
+If the iteration loop reaches max interations before the initial x,y pair is reached the loop is terminated, point plotted and the code moves to the next iteration loop.
+
+By varying two parameters, different images are created.
+
+Using information from article ['The Integer Circle Algorithm'](https://nbickford.wordpress.com/2011/04/03/the-minsky-circle-algorithm/)
+
+
+The code: [minsky_art.bas](minsky_art.bas)
+
+![minsky_art1.png](minsky_art1.png)
+
