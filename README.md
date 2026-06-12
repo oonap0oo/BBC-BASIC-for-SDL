@@ -150,3 +150,14 @@ The code: [minsky_art.bas](minsky_art.bas)
 
 ![minsky_art1.png](minsky_art1.png)
 
+## Kaleidoscope Simulator
+
+Based on a [program posted by Steve Furnell on FB](https://www.facebook.com/share/v/18wRGs47oU/)
+
+An almost transparent overlay is used to fade the content drawn during previous frames to black. The moving circles display a trail. 
+
+The code [kaleidoscope_mod.bas](kaleidoscope_mod.bas)
+
+![kaleidoscope_mod.png](kaleidoscope_mod.png)
+
+      
