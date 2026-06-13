@@ -160,4 +160,15 @@ The code [kaleidoscope_mod.bas](kaleidoscope_mod.bas)
 
 ![kaleidoscope_mod.png](kaleidoscope_mod.png)
 
-      
+## Golden Dragon
+
+Constructing the Golden Dragon fractal curve using the chaos game or also called using an iterated function system.
+
+See [https://larryriddle.agnesscott.org/ifs/heighway/goldenDragon.htm](https://larryriddle.agnesscott.org/ifs/heighway/goldenDragon.htm)
+
+The program uses the array arithmetic and dot product capability of BBC BASIC for SDL.
+
+The code [golden_dragon.bas](golden_dragon.bas)
+
+![golden_dragon.png](golden_dragon.png)
+
