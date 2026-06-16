@@ -160,6 +160,8 @@ An almost transparent overlay is used to fade the content drawn during previous 
 
 The code [kaleidoscope_mod.bas](kaleidoscope_mod.bas)
 
+View a [screen recording on Youtube](https://youtube.com/shorts/NyU8BKjBDLQ?si=sFHab1FbvsNgYvlf)
+
 ![kaleidoscope_mod.png](kaleidoscope_mod.png)
 
 ## Golden Dragon
