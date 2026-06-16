@@ -178,7 +178,7 @@ The code [golden_dragon.bas](golden_dragon.bas)
 
 ## Halvorsen attractor
 
-This attractor is defined by 3 couples ODEs:
+This attractor is defined by 3 coupled ODEs:
 
     dx_dt = -a*x-4*y-4*z-y*y
     dy_dt = -a*y-4*z-4*x-z*z
