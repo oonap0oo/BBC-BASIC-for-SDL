@@ -188,6 +188,8 @@ The xyz coordinates are used to derive a 2D representation. This figure is rotat
 
 The code: [halvorsen2.bas](halvorsen2.bas)
 
+View a [screen recording on Youtube](https://youtu.be/9MrRkxXmvW8?si=8PoFe4msWR70XP-q)
+
 A still image from the animation:
 ![halvorsen2.png](halvorsen2.png)
 
