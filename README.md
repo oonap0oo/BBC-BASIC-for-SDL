@@ -170,5 +170,25 @@ The program uses the array arithmetic and dot product capability of BBC BASIC fo
 
 The code [golden_dragon.bas](golden_dragon.bas)
 
-![golden_dragon.png](golden_dragon.png)
+![golden_dragon.png](golden_dragon.png
+
+## Halvorsen attractor
+
+This attractor is defined by 3 couples ODEs:
+
+    dx_dt = -a*x-4*y-4*z-y*y
+    dy_dt = -a*y-4*z-4*x-z*z
+    dz_dt = -a*z-4*x-4*y-x*x
+
+For the only parameter a, often a value like 1.4 is used.
+
+This program uses Euler method to calculate a set of xyz points and these are stored in an array.
+
+The xyz coordinates are used to derive a 2D representation. This figure is rotated using the rotation matrix and the array operations of BBC BASIC for SDL.
+
+The code: [halvorsen2.bas](halvorsen2.bas)
+
+A still image from the animation:
+![halvorsen2.png](halvorsen2.png)
+
 
