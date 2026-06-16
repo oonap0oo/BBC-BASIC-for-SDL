@@ -174,7 +174,7 @@ The program uses the array arithmetic and dot product capability of BBC BASIC fo
 
 The code [golden_dragon.bas](golden_dragon.bas)
 
-![golden_dragon.png](golden_dragon.png
+![golden_dragon.png](golden_dragon.png)
 
 ## Halvorsen attractor
 
