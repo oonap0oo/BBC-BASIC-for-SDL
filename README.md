@@ -166,7 +166,7 @@ View a [screen recording on Youtube](https://youtube.com/shorts/NyU8BKjBDLQ?si=s
 
 ## Golden Dragon
 
-Constructing the Golden Dragon fractal curve using the chaos game or also called using an iterated function system.
+Constructing the Golden Dragon fractal curve using an iterated function system or IFS. This method is also known as chaos game.
 
 See [https://larryriddle.agnesscott.org/ifs/heighway/goldenDragon.htm](https://larryriddle.agnesscott.org/ifs/heighway/goldenDragon.htm)
 
