@@ -148,6 +148,8 @@ Using information from article ['The Integer Circle Algorithm'](https://nbickfor
 
 The code: [minsky_art.bas](minsky_art.bas)
 
+View a [screen recording on Youtube](https://youtu.be/NXzCPvTb2zA)
+
 ![minsky_art1.png](minsky_art1.png)
 
 ## Kaleidoscope Simulator
