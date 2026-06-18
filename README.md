@@ -197,4 +197,13 @@ View a [screen recording on Youtube](https://youtu.be/9MrRkxXmvW8?si=8PoFe4msWR7
 A still image from the animation:
 ![halvorsen2.png](halvorsen2.png)
 
+## Dancing Points
 
+Made only to generate a visual effect, not a accurate simulation of a physics phenomenon. For example a lot of constants in real physics are assumed equal to 1 here, also this is 2D only.
+
+The program is based on the general idea of charged particles being attracted to a number of 'attractors' while also being influenced by a magnetic field perpendicular to the image which generates a force 90 degrees to the direction of travel and proportional to the velocity.
+
+The code: [points3.bas](points3.bas)
+
+A still from the animation:
+![points3.png](points3.png)
