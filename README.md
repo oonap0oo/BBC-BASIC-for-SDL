@@ -205,7 +205,11 @@ Made only to generate a visual effect, not a accurate simulation of a physics ph
 
 The program is based on the general idea of charged particles being attracted to a number of 'attractors' while also being influenced by a magnetic field perpendicular to the image which generates a force 90 degrees to the direction of travel and proportional to the velocity.
 
-The code: [points3.bas](points3.bas)
+The code: [points4.bas](points4.bas)
+
+Watch the [animation on Youtube](https://youtu.be/6nP9uhgoryw)
 
 A still from the animation:
-![points3.png](points3.png)
+![points4.png](points4.png)
+
+
